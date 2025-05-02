@@ -20,7 +20,6 @@ A sophisticated trading strategy evolution system that uses grammatical evolutio
 ├── logs/                  # Log files
 ├── plots/                 # Generated plots
 ├── reports/              # Analysis reports
-├── .env                  # Environment variables
 ├── .env.example          # Example environment variables
 ├── requirements.txt      # Python dependencies
 ├── setup.py             # Package configuration
@@ -112,3 +111,4 @@ For detailed technical documentation, see:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
