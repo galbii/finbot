@@ -1,0 +1,12 @@
+2025-04-10 18:47:58,849 - TradingSystem - INFO - Logging system initialized. Logs will be saved to logs
+2025-04-10 18:47:58,849 - TradingSystem - INFO - Starting evolution for MSFT with 5 generations
+2025-04-10 18:47:58,849 - TradingSystem - INFO - Using adaptive mutation rates: 0.1 to 0.5
+2025-04-10 18:47:58,849 - TradingSystem - INFO - Using complexity control with max 3 conditions
+2025-04-10 18:48:09,214 - TradingSystem - INFO - Generation 1: Best=-100.00%, Avg=-100.00%, Diversity=0.95, MutRate=0.28, Time=5.16s
+2025-04-10 18:48:14,236 - TradingSystem - INFO - Generation 2: Best=-100.00%, Avg=-100.00%, Diversity=1.00, MutRate=0.27, Time=5.02s
+2025-04-10 18:48:19,312 - TradingSystem - INFO - Generation 3: Best=-100.00%, Avg=-100.00%, Diversity=0.85, MutRate=0.26, Time=5.08s
+2025-04-10 18:48:24,442 - TradingSystem - INFO - Generation 4: Best=-100.00%, Avg=-100.00%, Diversity=0.85, MutRate=0.24, Time=5.13s
+2025-04-10 18:48:29,348 - TradingSystem - INFO - Generation 5: Best=-100.00%, Avg=-100.00%, Diversity=0.85, MutRate=0.23, Time=4.91s
+2025-04-10 18:48:29,351 - TradingSystem - INFO - Strategy performance logged: 0.00% profit, Generation 0
+2025-04-10 18:48:29,915 - TradingSystem - INFO - Evolution report saved to logs/evolution_report_20250410_184829.png
+2025-04-10 18:48:29,919 - TradingSystem - INFO - Logs exported to logs/export_20250410_184829.html

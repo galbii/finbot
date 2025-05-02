@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-04-10 18:48:29",
+    "strategy": "BUY WHEN RSI(14) < 30 SELL WHEN RSI(14) > 70",
+    "generation": 0,
+    "profit_percentage": 0.0,
+    "initial_portfolio": 0.0,
+    "final_portfolio": 0.0,
+    "sharpe_ratio": 0.0,
+    "max_drawdown": 0.0,
+    "win_rate": 0.0,
+    "avg_win": 0.0,
+    "avg_loss": 0.0,
+    "profit_factor": 0.0
+  }
+]

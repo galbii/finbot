@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+use python3 to run the python files.
+- You can @ files here
+- You can use markdown but dont have to

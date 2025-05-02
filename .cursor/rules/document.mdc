@@ -1,0 +1,12 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+
+always build on top of our [architecture.md](mdc:architecture.md) to create an official implmenetation architecture which will make it easy for the user to analyze how the system works .
+
+- You can @ files here
+- You can use markdown but dont have to

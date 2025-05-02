@@ -1,0 +1,4 @@
+2025-04-10 18:43:47,566 - TradingSystem - INFO - Logging system initialized. Logs will be saved to logs
+2025-04-10 18:43:47,566 - TradingSystem - INFO - Starting evolution for MSFT with 5 generations
+2025-04-10 18:43:47,567 - TradingSystem - INFO - Using adaptive mutation rates: 0.1 to 0.5
+2025-04-10 18:43:47,567 - TradingSystem - INFO - Using complexity control with max 3 conditions

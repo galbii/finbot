@@ -1,0 +1,4 @@
+# This file's presence indicates that sample data should be used 
+# when real data download fails.
+# 
+# Leave this file empty - it just needs to exist for the fallback system to work. 

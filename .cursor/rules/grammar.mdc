@@ -1,0 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+we evolve our trading strategy using our grammar, make sure to consider the grammar in @grammmar.md
+
+- You can @ files here
+- You can use markdown but dont have to
